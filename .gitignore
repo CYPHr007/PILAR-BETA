@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+pilar_beta.db
+settings.json
+.env
